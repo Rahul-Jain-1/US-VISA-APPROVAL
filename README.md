@@ -9,6 +9,7 @@ git push origin main
 ``` bash
 conda create -n (___name____=visa) python=3.8 -y
 conda activate visa
+conda env list 
 ```
 
 ```bash 
