@@ -15,3 +15,11 @@ conda env list
 ```bash 
  pip install -r requirements.txt 
 ```
+
+## workflow 
+1. constant 
+2. config entity 
+3. artifact entity 
+4. component 
+5. pipeline 
+6. app.py

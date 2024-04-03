@@ -11,3 +11,6 @@ try:
 except Exception as e:
     logging.info(e)
     raise USvisaException(e,sys) from e
+
+from us_visa.constants import *
+print(COLLECTION_NAME)    
