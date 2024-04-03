@@ -10,4 +10,4 @@ try:
     a = 1 / 1
 except Exception as e:
     logging.info(e)
-    raise USvisaException(e,sys) from e'
+    raise USvisaException(e,sys) from e
